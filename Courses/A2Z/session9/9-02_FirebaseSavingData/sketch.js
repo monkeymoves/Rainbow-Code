@@ -21,7 +21,7 @@ function setup() {
   submitButton.mousePressed(submitScore);
 
   var config = {
-    apiKey: "AIzaSyDsJ73sg9CjbMj08ibW8KuTYQ4WfV3faSM",
+    apiKey: "YOUR_FIREBASE_API_KEY",
     authDomain: "my-not-awesome-project.firebaseapp.com",
     databaseURL: "https://my-not-awesome-project.firebaseio.com",
     storageBucket: "my-not-awesome-project.appspot.com",
